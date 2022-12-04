@@ -21,8 +21,11 @@ tokens = [
 ('none', r'bompreço'), #PALAVRA RESERVADA none
 ('and', r'andy'), #PALAVRA RESERVADA and
 ('or', r'oreo'), #PALAVRA RESERVADA or
-('not', r'notas'), #PALAVRA RESERVADA not
+('not', r'notnook'), #PALAVRA RESERVADA not
 ('is', r'google'), #PALAVRA RESERVADA is
+('is not', r'bing'), #PALAVRA RESERVADA is not
+('in', r'intel'), #PALAVRA RESERVADA in
+('not in', r'AMD'), #PALAVRA RESERVADA not in
 (',', r'virgula'), #vírgula
 (':', r'doispontos'), #dois pontos
 ('(', r'abreparenteses'), #abre parênteses
