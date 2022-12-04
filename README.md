@@ -4,5 +4,5 @@ O código principal pode ser encontrado no arquivo main.py no repositório:(http
 
 DOCUMENTAÇÃO: (https://github.com/jairolu565/analisador-capitalista/files/10149300/documentacao.pdf)
 
-Vídeo do funcionamento da linguagem:
+Vídeo do funcionamento da linguagem: https://youtu.be/cstEK9DXYfE
 
